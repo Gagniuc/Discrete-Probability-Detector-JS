@@ -7,3 +7,6 @@ https://gagniuc.github.io/Discrete-Probability-Detector-JS/
 # Screenshot
 <kbd><img src="https://github.com/Gagniuc/Discrete-Probability-Detector-DPD-/blob/main/%5BG%5D%20Discrete%20Probability%20Detector.png" /></kbd>
 
+# References
+
+<i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>

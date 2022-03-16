@@ -8,7 +8,7 @@ https://gagniuc.github.io/Discrete-Probability-Detector-JS/
 
 # Screenshot
 
-<kbd><img src="https://github.com/Gagniuc/Discrete-Probability-Detector-DPD-/blob/main/%5BG%5D%20Discrete%20Probability%20Detector.png" /></kbd>
+<kbd><img src="https://github.com/Gagniuc/Discrete-Probability-Detector-JS/blob/main/img/Discrete%20Probability%20Detector.png?raw=true" /></kbd>
 
 # References
 
